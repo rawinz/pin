@@ -7,3 +7,5 @@ if False:
     print("hi")
 else:
     print("by")
+
+print("more fun will when i do this")
