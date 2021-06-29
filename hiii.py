@@ -2,3 +2,8 @@
 
 print("give me a bottle of rum!")
 print ("no")
+print ("___________")
+if False:
+    print("hi")
+else:
+    print("by")
